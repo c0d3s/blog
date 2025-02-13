@@ -26,6 +26,6 @@ This isn't to promote negligence. You should remain connected and informed. Afte
 
 ---
 
-### **TLDR;**
+### **TL;DR:**
 
 Great leaders scale themselves by **removing themselves from execution** and focusing on strategy. The less they’re needed for daily decisions, the **more valuable they become.**
