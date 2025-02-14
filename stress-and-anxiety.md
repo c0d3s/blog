@@ -19,8 +19,8 @@ Different combinations of these variables create different emotional states:
 | **Low Control** | Demotivation (leads to disengagement) | Anxiety (crippling, chronic stress) |
 
 * **High stakes \+ high control \= pressure.** This can be motivating or overwhelming, depending on how the team is managed. Some people thrive here, others burn out.  
-* **High stakes \+ low control \= anxiety.** This is where things get danguigerous. **It’s a guillotine over your head—and someone else controls the lever.**  
-* **Low stakes \+ high control \= ease.** It’s comfortable—until boredom sets in.  
+* **High stakes \+ low control \= anxiety.** This is where things get dangerous. At worst, you feel powerless, like there's a guillotine over your head; your fate is in the hands controlled by the masked executioner at the lever.  
+* **Low stakes \+ high control \= ease.** It’s comfortable for a time, though comfort may give way to boredom.  
 * **Low stakes \+ low control \= disengagement.** When people have no control and nothing meaningful at stake, they check out. And once someone checks out, it’s hard to bring them back.
 
 ### **How to Reduce Anxiety and Maintain Healthy Stress**
