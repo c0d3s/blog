@@ -1,6 +1,6 @@
 ### **Process Is Not a Silver Bullet**
 
-Process is useful, but not a panacea. If process solved everything, the role of a manager would be severely diminished. It’s a tool, not a replacement for judgment, experience, or intuition. Design it deliberately, and use it **with intent.**
+Process is useful, but not a panacea. If process solved everything, the role of a leader would be severely diminished. It’s a tool, not a replacement for judgment, experience, or intuition. Design it deliberately, and use it **with intent.**
 
 The best process is usually the **least amount necessary** to align the team, mitigate risk, and drive execution. Anything beyond that is overhead. Too much process creates friction, grinding away at efficiency and quality of life. Process should be a lubricant, not an abrasive.
 
