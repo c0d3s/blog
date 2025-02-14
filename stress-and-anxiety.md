@@ -1,5 +1,5 @@
-Balance Stress, Reduce Anxiety
-As a team leader, your job isn’t to apply stress—it’s to balance it. Stress is a natural response to challenge: a tough deadline, a big customer to support, a complex feature, a high standard of quality. Your team doesn’t need you to manufacture urgency—they just need to understand the stakes.
+Regulate Stress, Reduce Anxiety
+As a team leader, your job isn’t to apply stress—it’s to regulate it. Stress is a natural response to challenge: a tough deadline, a big customer to support, a complex feature, a high standard of quality. Your team doesn’t need you to manufacture urgency—they just need to understand the stakes.
 
 Anxiety, however, is different. Anxiety isn’t just stress—it’s chronic unease, a sense of impending failure without a clear way out. I’d argue that a primary cause of anxiety is a real or perceived lack of control, influence, or autonomy. When people feel powerless in high-stakes situations, they spiral. Your job as a leader is to ward this off.
 
