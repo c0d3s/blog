@@ -4,7 +4,7 @@ If you’re making every decision, you’re the bottleneck. That’s a failure m
 
 ### **Leadership Is Just Another Layer of Abstraction**
 
-When writing production web applications, we don’t write assembly—we compose in modern languages. We don’t reinvent every low-level function (except in leetcode)—we pull in libraries with optimized solutions and focus on applying those solutions where they have an impact. And we can choose to forego managing our own metal when we have cloud infrastructure at our disposal. 
+When writing production web applications, we don’t write in machine code or assembly -- we compose in modern languages. We don’t reinvent every low-level function (except perhaps in leetcode) -- we pull in libraries with optimized solutions and focus on applying those solutions where they have an impact. And we often choose to forego managing our own metal when we have cloud infrastructure at our disposal.
 
 Every layer of abstraction frees us to **focus on higher-order problems** and deliver more value. Leadership works the same way.
 
