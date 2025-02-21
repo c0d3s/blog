@@ -1,6 +1,6 @@
 ### **Great Leaders Make Themselves Obsolete**
 
-If you’re making every decision, you’re the bottleneck. That’s a failure mode. Your job isn’t to own every technical call or unblock every issue—it’s to build a system that runs without you. The more effectively you **remove yourself from day-to-day execution**, the more your team grows, your organization scales, and your career advances.
+If you’re making every decision, you’re the bottleneck. That’s a failure mode. Your job isn’t to own every technical call or unblock every issue. It’s to build a system that runs without you. The more effectively you **remove yourself from day-to-day execution**, the more your team grows, your organization scales, and your career advances.
 
 ### **Leadership Is Just Another Layer of Abstraction**
 
@@ -18,7 +18,7 @@ If you’re personally involved in every detail, you’re working at the lowest 
 
 ### **This Is How You Advance**
 
-Working yourself out of a job sounds like a terrible job security plan. It’s not. The more you enable your team to **run without you**, the more you free yourself to **focus on higher-leverage work**—strategy, alignment, and big-picture thinking. That’s what leadership is.
+Working yourself out of a job sounds like a terrible job security plan. It’s not. The more you enable your team to **run without you**, the more you free yourself to **focus on higher-leverage work**: strategy, alignment, and big-picture thinking.
 
 Your team doesn’t need you making every decision. They need you **looking ahead.** The only way to do that is to **climb higher and get out of their way.**
 

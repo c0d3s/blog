@@ -15,7 +15,7 @@ Two rules:
 
 ### **Process Is Not a Progress Report**
 
-Far too often, teams fall into the trap of **treating process as a measurement tool**. Agile metrics, sprint velocity, and burndown charts aren’t indicators of value—they're just **side effects of process.** Helpful ones, but side effects nonetheless.
+Far too often, teams fall into the trap of **treating process as a measurement tool**. Agile metrics, sprint velocity, and burndown charts aren’t indicators of value. They're **side effects of process.** Helpful ones, but side effects nonetheless.
 
 * Finishing a sprint on time doesn’t mean you delivered meaningful work.  
 * Increasing velocity doesn’t mean you’re building the right things.  
@@ -43,4 +43,4 @@ Great teams don’t follow process. They own it. They make it better.
 
 ### **TL;DR:**
 
-Process is a tool, not a solution. The best process is **minimal, flexible, and team-driven.** Treat it like software—**iterate, measure, and refine.**
+Process is a tool, not a solution. The best process is **minimal, flexible, and team-driven.** Treat it like software: **iterate, measure, and refine.**
